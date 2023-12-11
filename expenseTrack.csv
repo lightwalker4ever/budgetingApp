@@ -1,11 +1,19 @@
-date,category,value,comments
-01/10/2023,House,121.99,
-01/11/2023,Income,999.99,
-12/11/2023,Football,100,Just good fun.
-01/11/2023,Insurance,43.22,None
-22/10/2023,Food,111.11,None
-05/10/2023,Food,95.33,None
-03/11/2023,Car,323.99,Car fixed at Halfords Autocentres.
-05/10/2023,Phone,29.99,Monthly bill.
-01/10/2023,Income,4200,Salary.
-01/11/2023,Food,23.99,Food at M&S.
+date,area,category,value,comments,changes_allowed,timestamp_record_added
+2023-04-01,Income,Income,200,,True,2023-11-26 23:51:43.222909
+2023-11-01,Income,Income,300,300,True,2023-11-19 23:56:03.064764
+2023-11-26,Expense,Food,309,,True,2023-11-26 23:25:59.035852
+2023-04-01,Income,Income,200,,True,2023-11-26 23:48:33.901293
+2023-04-01,Income,Income,200,,True,2023-11-26 23:54:00.333873
+2023-09-04,Expense,Insurance,353.23,,True,2023-11-19 23:42:16.672863
+2023-11-26,Expense,Food,111.11,,True,2023-11-26 23:36:25.004102
+2023-11-25,Expense,Drinks,7.99,,True,2023-11-25 23:40:44.664292
+2023-11-01,Expense,Food,499.99,,True,2023-11-19 23:44:23.879929
+2023-11-26,Expense,Car,344.44,,True,2023-11-26 23:21:24.721117
+2023-11-26,Expense,Headphones,39.56565,,True,2023-11-26 23:24:02.944627
+0010-01-01,Income,Income,300,None.,True,2023-11-26 23:39:51.435922
+2023-12-10,Expense,Drinks,233.12,,True,2023-12-10 23:36:42.328592
+2023-11-20,Expense,Food,444.44,,True,2023-11-20 00:01:05.965050
+2023-11-01,Income,Income,2222.22,Salary.,True,2023-11-19 23:46:17.835250
+2023-04-01,Income,Income,200,,True,2023-11-26 23:53:29.199403
+2023-11-01,Income,Income,500,,True,2023-11-26 23:21:48.005757
+2023-05-01,Income,Income,300,,True,2023-11-26 23:54:14.567382
